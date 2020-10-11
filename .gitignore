@@ -1,0 +1,4 @@
+design.txt
+utils/__pycache__/
+.ipynb_checkpoints/
+vector_projection.ipynb
